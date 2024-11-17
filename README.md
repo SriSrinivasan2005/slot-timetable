@@ -61,6 +61,7 @@ Execute the program using runserver command.
             <TD><FOnt COLOR="BLACK" FACE="CURSIVE">CRYPTOCURRENCY</FONT></TD>
             <TD><FONT COLOR="BLACK" FACE="CURSIVE">DIGITAL ELECTRONICS</FONT></TD>
             <TD><FOnt COLOR="BLACK" FACE="CURSIVE">MENTOR MEET</FOnt></TD>
+            <TD>FREE SLOT</TD>
         <TR>
             <TH bgcolor="VIOLET">THURSDAY</TH>
             <TD><FOnt COLOR="BLACK" FACE="CURSIVE">PHYSICS</FOnt></TD>
@@ -133,7 +134,7 @@ Execute the program using runserver command.
 
 ## OUTPUT
 
-![alt text](TIMETABLE.png)
+![alt text](<TIMETABLE (1).png>)
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
